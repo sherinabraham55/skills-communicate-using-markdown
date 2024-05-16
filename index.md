@@ -12,3 +12,6 @@ function multiplyNumbers(a, b) {
 var result = multiplyNumbers(5, 7);
 console.log(result); // Output: 35
 ```
+- [x] Turn on Github
+- [x] Commit
+- [ ] Merge pull request
